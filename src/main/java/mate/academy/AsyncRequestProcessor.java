@@ -1,6 +1,5 @@
 package mate.academy;
 
-import java.time.LocalTime;
 import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
